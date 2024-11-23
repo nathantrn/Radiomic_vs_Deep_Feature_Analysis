@@ -1,0 +1,3 @@
+PID,cropped_img_pth,cropped_mask_pth
+101444_fixed-size-crop,./sample_data/101444_fixed-size-crop/image.nii,./sample_data/101444_fixed-size-crop/lesion.nii
+

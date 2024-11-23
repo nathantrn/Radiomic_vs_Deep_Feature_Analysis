@@ -1,0 +1,2 @@
+PID,img_path,seg_path
+101444,./sample_data/101444/image.nii.gz,./sample_data/101444/lesion.nii.gz
